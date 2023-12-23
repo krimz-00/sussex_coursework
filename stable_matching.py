@@ -1,3 +1,4 @@
+# This program is guaranteed to produce a 100% stability.
 preferences_of_men = {
     "Ryan" : ["Lizzy", "Sarah", "Zoey", "Daniella"],
     "Josh" : ["Sarah", "Lizzy", "Daniella", "Zoey"],
